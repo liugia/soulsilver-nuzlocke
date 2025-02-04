@@ -14,6 +14,7 @@ These are rules for a hardcore Pokémon Soulsilver Nuzlocke that will be complet
 8) HM slaves are allowed but cannot be used in battle or leveled at all.
 9) Once a gym has been entered, you cannot leave it until complete.
 10) Pokemon will evolve early and trade stone/time-based evolutions will use stone evolutions instead (Ex. Eevee uses Sun Stone to turn into Espeon and Moon Stone to Umbreon).
+11) If a Ralts or Kirlia happens to be Male on the starter select screen or in the wild (has to be first encounter in wild), the run is an instafail and you must reset the run.
 
 <ins>Special In-world Encounters</ins>  - All in-world encounters can be caught and will not count towards your first encounter (as long as they are not dupes). \
 <ins>Shiny Clause</ins> - Given that a shiny Pokémon is RANDOMLY found, you may catch it. The exception to this rule is the Lake of Rage-- the in-world shiny Gyarados counts as an encounter. \
