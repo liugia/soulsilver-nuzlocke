@@ -30,24 +30,24 @@ These are rules for a hardcore Pokémon Soulsilver Nuzlocke that will be complet
 ## Level Caps (10% boost from Vanilla Level Curve)
 ### Johto
 Gym 1: Lvl 14 \
-Gym 2: Lvl 18 \
-Gym 3: Lvl 20 \
-Gym 4: Lvl 27 \
+Gym 2: Lvl 19 \
+Gym 3: Lvl 21 \
+Gym 4: Lvl 28 \
 Gym 5: Lvl 34 \
-Gym 6: Lvl 38 \
-Gym 7: Lvl 38 \
+Gym 6: Lvl 39 \
+Gym 7: Lvl 39 \
 Gym 8: Lvl 45
  
 Elite Four: Lvl 55
 
-### Kanto
-Pewter City Gym: Lvl 59 \
+### Kanto** (WEIRD LEVEL CURVES WILL IMPROVISE IF THINGS GET WEIRD)
+Pewter City Gym: Lvl 57 \
 Cerulean City Gym: Lvl 59 \
 Vermillion City Gym: Lvl 58 \
-Celadon City Gym: Lvl 61 \
+Celadon City Gym: Lvl 62 \
 Fuchsia City Gym: Lvl 55 \
-Saffron City Gym: Lvl 60 \
-Seafoam Island Gym: Lvl 64 \
+Saffron City Gym: Lvl 61 \
+Seafoam Island Gym: Lvl 65 \
 Viridian City Gym: Lvl  66
 
-Red: Lvl 96
+Red: Lvl 97
