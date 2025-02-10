@@ -1,7 +1,7 @@
 # Pokémon Soulsilver Randomized Nuzlocke Rules
 These are rules for a hardcore Pokémon Soulsilver Nuzlocke that will be completed on https://twitch.tv/liugia
 
-<b>Start date: February 4th, 2025</b>
+<b>Start date: Will come back to later. (Tech Errors) </b>
 
 ## General Rules
 1) Can only catch the first Pokémon seen on each route/cave/town.
